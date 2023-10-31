@@ -72,5 +72,5 @@ async def music(ctx):
 
 
 
-token = os.environ.get("MTE1Nzk3OTc4OTQ1NDQ4NzYxNg.GlV74G.k9-pBDE8A_tPWBvLqDXcOGLXFxrovxPAtcGIKM")
-client.run("MTE1Nzk3OTc4OTQ1NDQ4NzYxNg.GlV74G.k9-pBDE8A_tPWBvLqDXcOGLXFxrovxPAtcGIKM")
+token = os.environ.get("your token")
+client.run("TOKEN)
